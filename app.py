@@ -36,6 +36,12 @@ def preprocess_image(image_path):
     
     return img_array
 
+# --- PING ENDPOINT FOR HEALTH CHECK ---
+@app.route('/ping', methods=['GET'])
+def ping():
+    """A simple endpoint to check if the service is alive."""
+    return jsonify({'response': 'pong'})
+
 # --- API ENDPOINT FOR PREDICTION ---
 @app.route('/predict', methods=['POST'])
 def predict():
