@@ -1,0 +1,14 @@
+{
+  "Phalaenopsis": {
+    "care": "Water every 1-2 weeks. Prefers bright, indirect light. Ideal temperature is between 24-29°C.",
+    "decoration": "Excellent as a standalone potted plant for an office desk or living room table."
+  },
+  "Dendrobium": {
+    "care": "Requires watering once a week. Needs a lot of bright, indirect light. Thrives in temperatures between 21-27°C.",
+    "decoration": "Its tall canes with multiple flowers are perfect for vertical arrangements."
+  },
+  "Cattleya": {
+    "care": "Allow the potting medium to dry out between waterings. Requires bright, indirect sunlight. Ideal temperatures range from 18-24°C.",
+    "decoration": "Often used in corsages and wedding bouquets due to their large, fragrant flowers."
+  }
+}
