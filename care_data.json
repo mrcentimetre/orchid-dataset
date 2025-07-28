@@ -10,5 +10,13 @@
   "Cattleya": {
     "care": "Allow the potting medium to dry out between waterings. Requires bright, indirect sunlight. Ideal temperatures range from 18-24°C.",
     "decoration": "Often used in corsages and wedding bouquets due to their large, fragrant flowers."
+  },
+  "Oncidium": {
+    "care": "Water when the potting medium is nearly dry. Prefers filtered light and good air circulation. Ideal temperature is 18-24°C.",
+    "decoration": "Known as 'dancing lady' orchids, they are great for adding a splash of color to any room or floral arrangement."
+  },
+  "Vanda": {
+    "care": "Water frequently, ideally daily in warm weather. Needs very bright light and high humidity. Ideal temperature is 21-32°C.",
+    "decoration": "Spectacular hanging roots and vibrant flowers make Vanda orchids perfect for hanging baskets and dramatic displays."
   }
 }
